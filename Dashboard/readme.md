@@ -1,10 +1,9 @@
-Tableau Public Link 
-
 "Amazon Prime Day is an annual deal event exclusively for Prime members, delivering two days of epic deals on products on all kind of businesses and brands"
 
 Short recap on Prime Day on 2020 
-There are 3 dashboard 
+There are 3 dashboards
 
+Tableau Public Link 
 https://public.tableau.com/authoring/HomeProjectChallenge2/AmazonPrimeDay2020#1
 
 ## Dashboard description
