@@ -34,3 +34,8 @@ In this dashboard, there are 3 metrics: Average RoAs, Average CPC and Average CT
 
 In this dashboard, it shows the comparisons of average RoAS per marketplace between Normal Day and Prime Day. The graph shows the average RoAs by marketing place in normal days and prime days. 
 As we can see, Germany, France, United Kingdom, Italy are the countries who benefit significantly the rising of RoAs on Prime Day while in Australia and India, it seems to remain the same between these 2 kinds of days. 
+
+### The fourth Dashboard: Advertising Metrics 3
+
+This line chart demonstrates the advertising cost vs the advertising sales over the month of October. 
+
