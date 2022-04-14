@@ -4,7 +4,8 @@ Short recap on Prime Day on 2020
 There are 3 dashboards
 
 Tableau Public Link 
-https://public.tableau.com/authoring/HomeProjectChallenge2/AmazonPrimeDay2020#1
+https://public.tableau.com/app/profile/giang.le7148/viz/HomeProjectChallenge2/AmazonPrimeDay2020?publish=yes
+
 
 ## Dashboard description
 
