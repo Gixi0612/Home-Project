@@ -2,7 +2,6 @@
 https://docs.google.com/spreadsheets/d/1JI1ymuIDEGtJ5ZRaALrgMWnQNKdFDLgMsyIqHgXCgQw/edit#gid=1446237475
 
 
-In this spreadsheet, there are 6 visible tabs to users. 
 ## Full Data Source
 This includes the raw data with some manipulations to visualize other tabs as well as adding images, adding hyperlink, adding stars into rating,...
 
