@@ -1,9 +1,4 @@
 
-
-### Spreadsheet Link 
-https://docs.google.com/spreadsheets/d/1JI1ymuIDEGtJ5ZRaALrgMWnQNKdFDLgMsyIqHgXCgQw/edit#gid=1446237475
-
-
 ## ANALYSIS FOR AMAZON'S BEST SELLER FURNITURE PRODUCT
 This report helps us to understand the dynamics of Amazon's best sellers products ranks over one month, for Furniture Department. 
 I created stories including 6 different charts. Here below I will explain in details about each chart. 
