@@ -9,7 +9,7 @@ https://public.tableau.com/app/profile/giang.le7148/viz/HomeProjectChallenge2/Am
 
 ## Dashboard description
 
-###The first Dashboard: Amazon Prime Day 2020
+### The first Dashboard: Amazon Prime Day 2020
 ### Sales per Day in October 2020 
 This line chart shows the daily sales in October 2020, where we can see the significantly increase in sale in 2 prime days (13th and 14th October)
 
